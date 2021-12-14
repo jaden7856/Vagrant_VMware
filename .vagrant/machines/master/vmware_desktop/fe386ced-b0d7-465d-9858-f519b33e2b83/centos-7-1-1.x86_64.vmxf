@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<VMId type="string">52 87 a1 bb d9 35 e4 fb-ff 0a 6f f2 a6 78 81 44</VMId>
+<vmxPathName type="string">centos-7-1-1.x86_64.vmx</vmxPathName></VM></Foundry>
